@@ -1,0 +1,193 @@
+/* Apply basic styles to the image and link */
+.image-container1 {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(246, 246, 246);
+}
+
+.image-container1 a {
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+
+.image-container1 img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+
+}
+
+/* Add a hover effect to scale the image on hover */
+.image-container1:hover img {
+    transform: scale(1.1);
+    content: url('../img/ple.jpg')
+}
+
+/* Add styles for the link text (customize as needed) */
+.image-container1 a .link-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(39, 39, 39);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Show the link text on hover */
+.image-container1:hover a .link-text {
+    opacity: 1;
+    background-color: #66a0ff;
+    padding: 5px;
+}
+
+/* -----------Second img project------------ */
+/* Apply basic styles to the image and link */
+.image-container2 {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(246, 246, 246);
+}
+
+.image-container2 a {
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+
+.image-container2 img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+
+}
+
+/* Add a hover effect to scale the image on hover */
+.image-container2:hover img {
+    transform: scale(1.1);
+    content: url('../img/specialistv.jpg')
+}
+
+/* Add styles for the link text (customize as needed) */
+.image-container2 a .link-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(39, 39, 39);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Show the link text on hover */
+.image-container2:hover a .link-text {
+    opacity: 1;
+    background-color: #66a0ff;
+    padding: 5px;
+}
+
+/* -----------Third img project------------ */
+/* Apply basic styles to the image and link */
+.image-container3 {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(246, 246, 246);
+}
+
+.image-container3 a {
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+
+.image-container3 img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+
+}
+
+/* Add a hover effect to scale the image on hover */
+.image-container3:hover img {
+    transform: scale(1.1);
+    content: url('../img/matte3.jpg')
+}
+
+/* Add styles for the link text (customize as needed) */
+.image-container3 a .link-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(39, 39, 39);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Show the link text on hover */
+.image-container3:hover a .link-text {
+    opacity: 1;
+    background-color: #66a0ff;
+    padding: 5px;
+}
+
+
+/* -----------Fourth img project------------ */
+/* Apply basic styles to the image and link */
+.image-container4 {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(246, 246, 246);
+}
+
+.image-container4 a {
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+
+.image-container4 img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+
+}
+
+/* Add a hover effect to scale the image on hover */
+.image-container4:hover img {
+    transform: scale(1.1);
+    content: url('../img/deletebg.jpg')
+}
+
+/* Add styles for the link text (customize as needed) */
+.image-container4 a .link-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(39, 39, 39);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Show the link text on hover */
+.image-container4:hover a .link-text {
+    opacity: 1;
+    background-color: #66a0ff;
+    padding: 5px;
+}
+
+/* -----------Fifth img project------------ */
